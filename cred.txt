@@ -1,0 +1,19 @@
+onst firebaseConfig = {
+  apiKey: "AIzaSyBT92uxNr4IJrsBf0VPU2piMQz4gCAk46o",
+  authDomain: "proyecto-wd.firebaseapp.com",
+  projectId: "proyecto-wd",
+  storageBucket: "proyecto-wd.firebasestorage.app",
+  messagingSenderId: "499153758189",
+  appId: "1:499153758189:web:d28687efc1bac3886e69e4",
+  measurementId: "G-NTPV3BQ23V"
+};
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBT92uxNr4IJrsBf0VPU2piMQz4gCAk46o",
+  authDomain: "proyecto-wd.firebaseapp.com",
+  projectId: "proyecto-wd",
+};
+
+PRESET:tienda_DG
+CLOUD:dxkblftsu
